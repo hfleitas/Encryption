@@ -1,4 +1,4 @@
-﻿:connect HiramPC01
+﻿:connect HiramPC01 
 go
 SELECT TOP 10 bmf.media_set_id, family_sequence_number, media_family_id, physical_device_name, name, database_name, server_name, key_algorithm, encryptor_thumbprint, encryptor_type
 FROM   msdb.dbo.backupmediafamily as bmf

@@ -1,4 +1,4 @@
-﻿/********************************************************************************/
+﻿/********************************************************************************/ 
 -- AUTHOR: 	Hiram Fleitas, hiramfleitas@hotmail.com, http://dba2o.wordpress.com
 -- DATE: 2017/09/18
 -- VERSION: SQL 2014 - 2016 Dev and Enterprise Editions.
