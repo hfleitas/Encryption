@@ -58,4 +58,9 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="BackupHistoryWithEncryption.sql" />
+    <None Include="EncryptBackups-HiramPC01.sql" />
+    <None Include="RestoreKeys-HiramPC01.sql" />
+  </ItemGroup>
 </Project>
